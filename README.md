@@ -17,6 +17,7 @@ This repository contains a comprehensive data analytics project that investigate
 - Audience preferences for heroes vs villains
 - The effect of the Disney+ recommendation system on subscription growth
 
+[Back to the Table of Content](#-table-of-contents)
 ## 📈 What This Project Does
 
 Using a combination of **hypothesis testing, ANOVA, causal analysis (DoWhy)**, and **regression models**, this project answers the following core questions:
@@ -26,6 +27,7 @@ Using a combination of **hypothesis testing, ANOVA, causal analysis (DoWhy)**, a
 3. **Audience Preference Analysis**: Do age demographics influence preferences for heroes or villains?
 4. **Disney+ Strategy**: Does the recommendation system increase Disney+ subscriber counts?
 
+[Back to the Table of Content](#-table-of-contents)
 ## 💡 Impact of This Analysis
 
 - Provided Disney with **evidence-backed insights** to prioritize top-performing genres like **Action, Adventure, Musical, Romantic Comedy, Thriller/Suspense, and Western**.
@@ -34,6 +36,7 @@ Using a combination of **hypothesis testing, ANOVA, causal analysis (DoWhy)**, a
   - Linear regression suggested a **negative or inconclusive effect**.
   - However, using **Propensity Score Matching via DoWhy**, a **positive causal impact of +2,495 subscribers** was discovered, suggesting areas for optimization in recommendation algorithms.
 
+[Back to the Table of Content](#-table-of-contents)
 ## ✅ Final Results Summary
 
 | Research Question                  | Method                             | Outcome                                                                                  |
@@ -43,13 +46,15 @@ Using a combination of **hypothesis testing, ANOVA, causal analysis (DoWhy)**, a
 | Age Preference for Heroes/Villains | Heterogeneity Test                 | No significant difference across age groups                                              |
 | Disney+ Recommendation System      | Regression + DoWhy Causal Analysis | Weak evidence from regression, but causal analysis showed **positive subscriber growth** |
 
+[Back to the Table of Content](#-table-of-contents)
 ## ⚙️ Technologies Used
 
 - Python (Pandas, NumPy, SciPy, statsmodels, DoWhy)
 - Statistical Methods: Hypothesis Testing, Welch's ANOVA, Games-Howell Post-Hoc
 - Causal Inference: DoWhy library
 - Data Visualization: Matplotlib
-
+- 
+[Back to the Table of Content](#-table-of-contents)
 ## 🔮 Future Work
 
 - Implement a **two-factor ANOVA** to explore how **movie ratings + genres** interact to affect revenue.
@@ -57,6 +62,7 @@ Using a combination of **hypothesis testing, ANOVA, causal analysis (DoWhy)**, a
 - Gather **data on younger audiences (<18)** for more robust preference studies.
 - Refine the recommendation system impact with **larger, more granular datasets** and **additional covariates**.
 
+[Back to the Table of Content](#-table-of-contents)
 ## 👩‍💻 How to Run the Analysis
 
 1. Clone this repository
@@ -66,8 +72,11 @@ Using a combination of **hypothesis testing, ANOVA, causal analysis (DoWhy)**, a
    ```
 3. Run `Disney Analysis Code.py` to replicate the analysis results.
 
+[Back to the Table of Content](#-table-of-contents)
 ## 📚 Acknowledgements
 
 - Data sources: Kaggle, Disney's public data, Professor Orkun Baycik's datasets
 - Tools: Boston University BA472 Course
+
+[Back to the Table of Content](#-table-of-contents)
 
