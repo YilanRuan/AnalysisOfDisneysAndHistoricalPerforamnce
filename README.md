@@ -1,5 +1,12 @@
 # 📊 Disney Revenue & Strategy Analysis
- <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-project-overview">Project Overview</a> 
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-project-overview">Project Overview</a>
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-what-this-project-does">what-this-project-does</a> 
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-impact-of-this-analysis">Impact of this analysis</a> 
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-final-results-summary">Final Results Summary</a> 
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#%EF%B8%8F-technologies-used">Technologies Used</a> 
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-future-work">Future Work</a> 
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-how-to-run-the-analysis">How to run the analysis</a> 
+ <a href="https://github.com/YilanRuan/AnalysisOfDisneysAndHistoricalPerforamnce/blob/main/README.md#-acknowledgements">Acknowledgements</a>
 ## 🎬 Project Overview
 
 This repository contains a comprehensive data analytics project that investigates **Disney's historical revenue drivers** and evaluates **long-term strategic insights** through data analysis, statistical testing, and causal inference. The project explores:
