@@ -35,17 +35,6 @@ Using a combination of **hypothesis testing, ANOVA, causal analysis (DoWhy)**, a
 | Age Preference for Heroes/Villains | Heterogeneity Test                 | No significant difference across age groups                                              |
 | Disney+ Recommendation System      | Regression + DoWhy Causal Analysis | Weak evidence from regression, but causal analysis showed **positive subscriber growth** |
 
-## 🗂️ Repository Structure
-
-```
-📁 data/              # Contains datasets used (Disney movies, Disney+ data, survey data)
-📁 analysis/          # Includes Jupyter notebooks / Python scripts (see Disney Analysis Code.py)
-📁 reports/           # Strategy reports & presentations
-    ├── Disney Data Analytics and Strategy Report.pdf
-    └── An Analysis of Disney’s Revenue Drivers and Historical Performance.pptx
-📄 README.md          # Project overview and documentation
-```
-
 ## ⚙️ Technologies Used
 
 - Python (Pandas, NumPy, SciPy, statsmodels, DoWhy)
