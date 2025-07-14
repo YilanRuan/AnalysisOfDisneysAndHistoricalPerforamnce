@@ -1,5 +1,4 @@
 # 📊 Disney Revenue & Strategy Analysis
-by Yilan Ruan
 
 ## 🎬 Project Overview
 
